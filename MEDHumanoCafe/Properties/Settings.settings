@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MEDHumanoCafe.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MySqlConexion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server=192.90.4.46;user id=superadmin;password=ms56MEX201$;persistsecurityinfo=True;database=maqxsa;port=3306</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

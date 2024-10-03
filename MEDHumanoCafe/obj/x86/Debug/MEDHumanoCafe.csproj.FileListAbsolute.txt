@@ -1,0 +1,11 @@
+C:\DesarrolloJMAC\GXNET\MEDHumanoCafe\MEDHumanoCafe\bin\Debug\MEDHumanoCafe.exe
+C:\DesarrolloJMAC\GXNET\MEDHumanoCafe\MEDHumanoCafe\bin\Debug\MEDHumanoCafe.pdb
+C:\DesarrolloJMAC\GXNET\MEDHumanoCafe\MEDHumanoCafe\obj\x86\Debug\MEDHumanoCafe.Begin.resources
+C:\DesarrolloJMAC\GXNET\MEDHumanoCafe\MEDHumanoCafe\obj\x86\Debug\MEDHumanoCafe.CapturaHuella.resources
+C:\DesarrolloJMAC\GXNET\MEDHumanoCafe\MEDHumanoCafe\obj\x86\Debug\MEDHumanoCafe.CaptureForm.resources
+C:\DesarrolloJMAC\GXNET\MEDHumanoCafe\MEDHumanoCafe\obj\x86\Debug\MEDHumanoCafe.Properties.Resources.resources
+C:\DesarrolloJMAC\GXNET\MEDHumanoCafe\MEDHumanoCafe\obj\x86\Debug\MEDHumanoCafe.csproj.GenerateResource.Cache
+C:\DesarrolloJMAC\GXNET\MEDHumanoCafe\MEDHumanoCafe\obj\x86\Debug\MEDHumanoCafe.exe
+C:\DesarrolloJMAC\GXNET\MEDHumanoCafe\MEDHumanoCafe\obj\x86\Debug\MEDHumanoCafe.pdb
+C:\Aplication\MEDHumanoCafe\MEDHumanoCafe\obj\x86\Debug\MEDHumanoCafe.exe
+C:\Aplication\MEDHumanoCafe\MEDHumanoCafe\obj\x86\Debug\MEDHumanoCafe.pdb
